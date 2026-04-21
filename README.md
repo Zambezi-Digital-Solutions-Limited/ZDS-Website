@@ -1,2 +1,3 @@
-# ZDS-Website
- Innovating across Zambia Empowering Businesses with Digital Solutions
+# GWS-Website
+
+Commercial Grade Innovations | Empowering Businesses with Digital Solutions
